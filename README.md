@@ -15,10 +15,6 @@
 
 <br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=himayand21&label=Profile%20views&color=0e75b6&style=flat" alt="himayand21" />
-</p>
-
 <h3 align="left">Find me on -</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himayan" height="30" width="40" /></a>
@@ -79,7 +75,15 @@
 <br />
 <br />
 
-<h3 align="left">Github Stats -</h3>
+<h3 align="left">Github Statistics -</h3>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himayand21&" alt="himayand21" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=himayand21&show_icons=true&locale=en" alt="himayand21" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=himayand21&show_icons=true&locale=en&layout=compact" alt="himayand21" /></p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=himayand21&label=Profile%20views&color=0e75b6&style=flat" alt="himayand21" />
+</p>
+
+<p align="right">
+<a href="https://stackoverflow.com/users/11737993/himayan"><img src="https://stackoverflow.com/users/flair/11737993.png" width="208" height="58" alt="profile for himayan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for himayan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
