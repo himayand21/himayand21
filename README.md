@@ -3,15 +3,15 @@
 
 <h3 align="left">To know more about me -</h3>
 
-- 👨‍💻 &nbsp;Visit my [Portfolio](https://himayan-portfolio.netlify.app) to find my projects
+- 👨‍💻 &nbsp;Visit my **[Portfolio](https://himayan-portfolio.netlify.app)** to find my projects
 
-- 📝 &nbsp;Find my articles on [Medium](https://medium.com/@himayandebnath)
+- 📝 &nbsp;Find my articles on **[Medium](https://medium.com/@himayandebnath)**
 
 - 💬 &nbsp;Ask me about **React, JavaScript, CSS**
 
 - 📫 &nbsp;Reach me at **himayand21@gmail.com**
 
-- 📄 &nbsp;Find my [Resume](https://drive.google.com/drive/folders/1KTmvnSH0dSWGd2nM8MxFMBU2iRBD3LYx)
+- 📄 &nbsp;Find my **[Resume](https://drive.google.com/drive/folders/1KTmvnSH0dSWGd2nM8MxFMBU2iRBD3LYx)**
 
 <br />
 
@@ -85,5 +85,5 @@
 </p>
 
 <p align="right">
-<a href="https://stackoverflow.com/users/11737993/himayan"><img src="https://stackoverflow.com/users/flair/11737993.png" width="208" height="58" alt="profile for himayan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for himayan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  <a href="https://stackoverflow.com/users/11737993/himayan"><img src="https://stackoverflow.com/users/flair/11737993.png" width="208" height="58" alt="profile for himayan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for himayan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
