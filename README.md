@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Himayan</h1>
-<h4 align="left">I am a web developer trying to make the web a better place.</h3>
+<h4 align="left">I am a front-end developer trying to make the web a better place.</h3>
 
 <h3 align="left">To know more about me -</h3>
 
