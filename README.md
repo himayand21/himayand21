@@ -5,7 +5,7 @@
 
 - 👨‍💻 &nbsp;Visit my **[Portfolio](https://himayan-portfolio.netlify.app)** to find my projects
 
-- 📝 &nbsp;Find my articles on **[Medium](https://medium.com/@himayandebnath)**
+- 📝 &nbsp;Find my articles on **[Medium](https://medium.com/@himayan)**
 
 - 💬 &nbsp;Ask me about **React, JavaScript, CSS**
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/himayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himayan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11737993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11737993" height="30" width="40" /></a>
 <a href="https://codesandbox.com/himayand21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="himayand21" height="30" width="40" /></a>
-<a href="https://medium.com/@himayandebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himayandebnath" height="30" width="40" /></a>
+<a href="https://medium.com/@himayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himayandebnath" height="30" width="40" /></a>
 </p>
 <br />
 <h3 align="left">Languages and Tools -</h3>
